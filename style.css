@@ -1,8 +1,18 @@
 header{
+    background-color: #fffff0;
     color: black;
-    font-size: 30px;
-    text-aling: center;
+    display:flex;
+    justify-content: space-around;
 }
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    justify-content: space-around;
+    padding: 24px 0;
+    font-size: 24px;
+}
+
 .imagem-fazenda{
     width:25%;
 }
