@@ -1,4 +1,9 @@
 header{
     background-color: greenyellow;
     color: black;
+    font-size: 30px;
+}
+p {
+    background-color: greenyellow;
+    color: black;
 }
