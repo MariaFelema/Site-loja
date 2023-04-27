@@ -47,3 +47,19 @@ body{
     display: flex;
     justify-content: space-around;
 }
+
+.produtos-titulo{
+    test-aling: center;
+    pading: 50px 0;
+}
+
+.estudante-todos{
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+footer{
+    backgroun-color: yellow;
+    padding: 15px 0;
+    text-aling: center;
+}
