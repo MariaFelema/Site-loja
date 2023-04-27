@@ -1,9 +1,3 @@
-header{
-    background-color: #fffff0;
-    color: black;
-    display:flex;
-    justify-content: space-around;
-}
 
 .cabecalho-lista-item{
     display: inline-block;
@@ -41,4 +35,15 @@ body{
 
 .produto-div{
     text-aling: center;
+}
+
+.cabecalho-loja{
+    width: 20%;
+}
+
+.cabecalho{
+    background-color: #fffff0;
+    color: red;
+    display: flex;
+    justify-content: space-around;
 }
