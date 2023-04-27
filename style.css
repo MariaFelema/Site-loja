@@ -34,3 +34,11 @@ body{
 .produto-imagem{
     width: 120px;
 }
+
+.preco-icone{
+    width: 24px;
+} 
+
+.produto-div{
+    text-aling: center;
+}
